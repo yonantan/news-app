@@ -1,6 +1,6 @@
 # How do I run this?
 
-1. Add you API key from newsapi.org to the .env file (follow the example in .env-example)
+1. Create a .env file and add your newsapi.org API key to the .env file (follow the example in .env-example)
 2. Add your postgres DB connection to the .env file (you can spin up an instance in 1 min using railway.app)
 3. Open a terminal and run:
 
